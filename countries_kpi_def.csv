@@ -1,0 +1,46 @@
+,country,industry,cpm,cpc,ctr
+0,Italy,gaming app,12.75,1.21,1.52
+1,Italy,entertainment app,10.38,0.63,1.36
+2,Italy,photo&video app,8.26,0.22,2.15
+3,Italy,shopping app,5.65,0.18,2.51
+4,Italy,finance app,7.21,0.53,2.64
+5,Italy,education app,5.79,0.19,2.55
+6,Italy,lifestyle app,8.05,0.28,2.62
+7,Italy,books app,11.4,0.3,2.53
+8,Italy, dating app,4.84,0.21,1.4
+9,Italy, news&magazine app,7.06,0.16,1.88
+10,Italy,food&drink app,7.21,0.53,2.64
+11,Italy,comic app,2.48,0.09,2.02
+12,Italy,travel app,2.58,0.76,0.94
+13,Italy,ecommerce,7.21,0.53,2.64
+14,Italy,B2B,7.21,0.53,2.64
+15,Germany,gaming app,17.59,2.55,1.97
+16,Germany,entertainment app,15.68,1.64,1.84
+17,Germany,photo&video app,13.39,0.59,2.67
+18,Germany,shopping app,9.26,0.69,2.76
+19,Germany,finance app,10.54,1.08,1.84
+20,Germany,education app,9.76,0.47,3.26
+21,Germany,lifestyle app,11.7,0.89,2.63
+22,Germany,books app,16.58,0.83,2.74
+23,Germany,dating app,7.47,0.61,2.03
+24,Germany,news&magazine app,11.98,0.54,1.99
+25,Germany,food&drink app,9.06,1.28,0.88
+26,Germany,comic app,4.78,0.34,2.59
+27,Germany,travel app,4.25,1.24,1.35
+28,Germany,ecommerce,12.2,1.84,2.85
+29,Germany,B2B,12.2,1.84,2.85
+30,Spain,gaming app,11.51,1.24,1.62
+31,Spain,entertainment app,9.61,0.63,1.53
+32,Spain,photo&video app,8.22,0.2,2.1
+33,Spain,shopping app,5.84,0.18,2.31
+34,Spain,finance app,5.95,0.37,1.86
+35,Spain,education app,5.48,0.18,2.62
+36,Spain,lifestyle app,8.19,0.28,2.47
+37,Spain,books app,10.84,0.3,2.54
+38,Spain,dating app,5.0,0.23,1.54
+39,Spain,news&magazine app,6.9,0.15,1.92
+40,Spain,food&drink app,5.28,0.66,0.69
+41,Spain,comic app,2.25,0.09,2.14
+42,Spain,travel app,2.73,0.77,1.08
+43,Spain,ecommerce,7.0,0.53,2.48
+44,Spain,B2B,7.0,0.53,2.48
